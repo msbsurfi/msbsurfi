@@ -1,15 +1,4 @@
 #!/usr/bin/env node
-// Refreshes the "latest" sections of README.md from msbsu.com's public API:
-// the 5 newest posts, works and on-sale items, each with its cover picture,
-// a short description and a "See all" link to the site. Run by
-// .github/workflows/update-readme.yml every few hours; plain Node 20+, no
-// packages.
-//
-//   node scripts/update-readme.mjs [README.md]
-//
-// Only the text between each pair of markers is replaced, e.g.
-//   <!-- POSTS:START --> … <!-- POSTS:END -->
-// so everything else in the README stays exactly as written.
 
 import { readFile, writeFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
@@ -37,12 +26,6 @@ export const SECTIONS = {
   },
 };
 
-/**
- * The HTML for one section: a full-width grid of cards, three per row (big
- * cover, title, one line), with "See all" in the first empty cell, or below
- * the grid when the last row is full. Covers are large images, which is what
- * stretches GitHub's tables to the full width.
- */
 const COLS = 3;
 export function renderSection(name, list) {
   const s = SECTIONS[name];
@@ -69,7 +52,7 @@ export function replaceSection(readme, name, html) {
   return readme.replace(re, (m, start, end) => `${start}\n${html}\n${end}`);
 }
 
-/** Fetches every section and returns the updated README text. */
+
 export async function updateReadme(readme, { fetchImpl = fetch } = {}) {
   let out = readme;
   for (const [name, s] of Object.entries(SECTIONS)) {
@@ -81,7 +64,6 @@ export async function updateReadme(readme, { fetchImpl = fetch } = {}) {
   return out;
 }
 
-// Run directly: update the README file in place.
 if (import.meta.url === pathToFileURL(process.argv[1] || '').href) {
   const file = process.argv[2] || 'README.md';
   const before = await readFile(file, 'utf8');
