@@ -60,6 +60,11 @@ Chat with an AI for five minutes. Get a designer-grade website and a matching PD
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://msbsu.com/posts/how-facebook-detects-ai-generated-images-how-to-remove-image-metadata"><img src="https://msbsu.com/api/media/29" alt="How Facebook Detects AI-Generated Images &amp; How to Remove Image Metadata" width="100%"></a><br>
+<a href="https://msbsu.com/posts/how-facebook-detects-ai-generated-images-how-to-remove-image-metadata"><b>How Facebook Detects AI-Generated Images &amp; How to Remove Image…</b></a><br>
+<sub>Ever wondered how Facebook detects AI-generated images? Discover the role of im…<br>29 Oct 2026</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><img src="https://msbsu.com/api/media/25" alt="MWT Bot — AI-Powered Business Automation Across Every Channel" width="100%"></a><br>
 <a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><b>MWT Bot — AI-Powered Business Automation Across Every Channel</b></a><br>
 <sub>Meet MWT Bot, a powerful multi-channel automation system that streamlines custo…<br>23 Oct 2026</sub>
@@ -69,14 +74,17 @@ Chat with an AI for five minutes. Get a designer-grade website and a matching PD
 <a href="https://msbsu.com/posts/online-examination-system-more-than-just-an-online-exam"><b>Online Examination System — More Than Just an Online Exam</b></a><br>
 <sub>A comprehensive online examination platform featuring a bilingual question bank…<br>23 Oct 2026</sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor"><img src="https://msbsu.com/api/media/26" alt="Linux vs Windows vs iOS - A metaphor" width="100%"></a><br>
 <a href="https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor"><b>Linux vs Windows vs iOS - A metaphor</b></a><br>
 <sub>A metaphoric comparison between Linux, Windows and iOS.<br>23 Oct 2026</sub>
 </td>
+<td width="33%" align="center" valign="middle"><a href="https://msbsu.com/posts"><b>See all posts</b> <img src="https://msbsu.com/assets/icons/profile/forward.svg" alt="" width="14" height="14"></a></td>
+<td width="33%"></td>
 </tr>
 </table>
-<p align="right"><a href="https://msbsu.com/posts"><b>See all posts</b> <img src="https://msbsu.com/assets/icons/profile/forward.svg" alt="" width="14" height="14"></a></p>
 <!-- POSTS:END -->
 
 ### <img src="https://msbsu.com/assets/icons/profile/briefcase.svg" alt="" width="20" height="20"> Latest works
