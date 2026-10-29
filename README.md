@@ -1,149 +1,113 @@
 <div align="center">
 
-<img src="https://msbsu.com/api/media/1" alt="MD Shifat Bin Siddique Urfi" width="160">
+<img src="https://msbsu.com/api/media/1" alt="MD Shifat Bin Siddique Urfi" width="140">
 
-# MD Shifat Bin Siddique Urfi
+## MD Shifat Bin Siddique Urfi
 
-**MBBS student at Dhaka Medical College** · Founder & CEO of [Bolteryx](https://www.bolteryx.com)
+**MBBS student at Dhaka Medical College** · Founder & CEO of [Bolteryx](https://www.bolteryx.com)<br>
+<sub>Dhaka, Bangladesh</sub>
 
-Dhaka, Bangladesh · [msbsu.com](https://msbsu.com)
+<p><a href="https://msbsu.com" title="Website"><img src="icons/globe.svg" alt="Website" width="22" height="22"></a>&nbsp;&nbsp;<a href="https://fb.me/msbsurfi" title="Facebook"><img src="icons/facebook.svg" alt="Facebook" width="22" height="22"></a>&nbsp;&nbsp;<a href="https://x.com/msbsurfi" title="X"><img src="icons/xTwitter.svg" alt="X" width="22" height="22"></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/msbsurfi" title="LinkedIn"><img src="icons/linkedin.svg" alt="LinkedIn" width="22" height="22"></a>&nbsp;&nbsp;<a href="https://t.me/msbsurfi" title="Telegram"><img src="icons/telegram.svg" alt="Telegram" width="22" height="22"></a>&nbsp;&nbsp;<a href="mailto:hello@msbsu.com" title="Email"><img src="icons/envelope.svg" alt="Email" width="22" height="22"></a>&nbsp;&nbsp;<a href="https://www.freelancer.com/u/msbsurfi" title="Freelancer"><img src="icons/freelance.svg" alt="Freelancer" width="22" height="22"></a>&nbsp;&nbsp;<a href="https://www.chess.com/member/msbsurfi" title="Chess.com"><img src="icons/chessPawn.svg" alt="Chess.com" width="22" height="22"></a>&nbsp;&nbsp;<a href="https://wa.me/msbsu" title="WhatsApp"><img src="icons/whatsapp.svg" alt="WhatsApp" width="22" height="22"></a>&nbsp;&nbsp;<a href="https://orcid.org/0009-0006-4157-0271" title="ORCID"><img src="icons/idCard.svg" alt="ORCID" width="22" height="22"></a></p>
 
 </div>
 
-## 🎓 Institution
+### <img src="icons/academic.svg" alt="" width="20" height="20"> Education
 
 <table>
 <tr>
-<td width="64" align="center"><img src="https://msbsu.com/api/media/8" alt="Dhaka Medical College" width="48" height="48"></td>
-<td><b>Dhaka Medical College</b><br>MBBS · Aug 2022 – present</td>
-</tr>
-<tr>
-<td width="64" align="center"><img src="https://msbsu.com/api/media/3" alt="Notre Dame College, Dhaka" width="48" height="48"></td>
-<td><b>Notre Dame College, Dhaka</b><br>HSC · Jul 2019 – Dec 2021</td>
-</tr>
-<tr>
-<td width="64" align="center"><img src="https://msbsu.com/api/media/4" alt="Faizur Rahman Ideal Institute" width="48" height="48"></td>
-<td><b>Faizur Rahman Ideal Institute</b><br>SSC · Jan 2009 – Apr 2019</td>
+<td><img src="https://msbsu.com/api/media/8" alt="" width="32" height="32"></td>
+<td><b>Dhaka Medical College</b><br><sub>MBBS · 2022–present</sub></td>
+<td><img src="https://msbsu.com/api/media/3" alt="" width="32" height="32"></td>
+<td><b>Notre Dame College, Dhaka</b><br><sub>HSC · 2019–2021</sub></td>
+<td><img src="https://msbsu.com/api/media/4" alt="" width="32" height="32"></td>
+<td><b>Faizur Rahman Ideal Institute</b><br><sub>SSC · 2009–2019</sub></td>
 </tr>
 </table>
 
-## 🛠️ Developments
+### <img src="icons/sparkle.svg" alt="" width="20" height="20"> Featured: Portfolio Studio
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://msbsu.com"><img src="https://msbsu.com/assets/og/home.jpg?v=5819f0db78" alt="msbsu.com" width="100%"></a>
-<h3><a href="https://msbsu.com">msbsu.com</a></h3>
-<p>My personal site: free tools, posts, an AI portfolio builder and chess.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.bolteryx.com"><img src="https://bolteryx.com/assets/img/social-card.png" alt="Bolteryx" width="100%"></a>
-<h3><a href="https://www.bolteryx.com">Bolteryx</a></h3>
-<p>The software company I founded: web, mobile, AI and cloud.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://blood.msbsu.com"><img src="https://msbsu.com/api/media/19" alt="DMC Blood Data Portal" width="100%"></a>
-<h3><a href="https://blood.msbsu.com">DMC Blood Data Portal</a></h3>
-<p>Blood donor directory and emergency alerts for Dhaka Medical College.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://exam.msbsu.com"><img src="https://msbsu.com/api/media/28" alt="Med Exam" width="100%"></a>
-<h3><a href="https://exam.msbsu.com">Med Exam</a></h3>
-<p>Online exams with a bilingual question bank and AI questions.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://store.msbsu.com"><img src="https://store.msbsu.com/file.php?f=cms%2F20260719-022142-e087f2620c.webp" alt="Coral Store" width="100%"></a>
-<h3><a href="https://store.msbsu.com">Coral Store</a></h3>
-<p>Ready-made online stores for businesses.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><img src="https://msbsu.com/api/media/25" alt="MWT Bot Pro" width="100%"></a>
-<h3><a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel">MWT Bot Pro</a></h3>
-<p>AI automation that answers customers on every channel.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://dmcbonesbank.org"><img src="https://dmcbonesbank.org/assets/social-preview.jpg?v=20261020" alt="DMC Bones Bank" width="100%"></a>
-<h3><a href="https://dmcbonesbank.org">DMC Bones Bank</a></h3>
-<p>Free anatomy study sets for medical students; I lead its system.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.hhfn.org.bd"><img src="https://www.hhfn.org.bd/images/social_default_1786123019.webp" alt="Helping Hand For Needy" width="100%"></a>
-<h3><a href="https://www.hhfn.org.bd">Helping Hand For Needy</a></h3>
-<p>Website and management portal for this humanitarian organisation.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://journal.dmcrac.org/nbhrc26/"><img src="https://journal.dmcrac.org/nbhrc26/assets/og-nbhrc26.png" alt="NBHRC 2026" width="100%"></a>
-<h3><a href="https://journal.dmcrac.org/nbhrc26/">NBHRC 2026</a></h3>
-<p>Proceedings and every technical system of the national research conference.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Bolteryx/avro-linux"><img src="https://opengraph.githubassets.com/1/Bolteryx/avro-linux" alt="Avro Linux" width="100%"></a>
-<h3><a href="https://github.com/Bolteryx/avro-linux">Avro Linux</a></h3>
-<p>Avro Phonetic Bangla typing for Debian-based Linux.</p>
-</td>
+<td width="260"><a href="https://msbsu.com/portfolio"><img src="https://msbsu.com/assets/og/portfolio.jpg?v=ec232c095e" alt="Portfolio Studio" width="260"></a></td>
+<td><b><a href="https://msbsu.com/portfolio">AI Portfolio Website Builder</a></b><br>
+Chat with an AI for five minutes. Get a designer-grade website and a matching PDF in nine themes, published to one permanent link. Free.<br><br>
+<a href="https://msbsu.com/portfolio"><b>Build yours</b> <img src="icons/forward.svg" alt="" width="14" height="14"></a></td>
 </tr>
 </table>
 
-## 📝 Latest posts
+### <img src="icons/layers.svg" alt="" width="20" height="20"> Developments
+
+<table>
+<tr>
+<td width="50%"><img src="icons/globe.svg" alt="" width="18" height="18"> <a href="https://msbsu.com"><b>msbsu.com</b></a><br><sub>Free tools, posts and chess</sub></td>
+<td width="50%"><img src="icons/bolt.svg" alt="" width="18" height="18"> <a href="https://www.bolteryx.com"><b>Bolteryx</b></a><br><sub>My software company</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="icons/heart.svg" alt="" width="18" height="18"> <a href="https://blood.msbsu.com"><b>DMC Blood Data Portal</b></a><br><sub>Blood donors for DMC</sub></td>
+<td width="50%"><img src="icons/academic.svg" alt="" width="18" height="18"> <a href="https://exam.msbsu.com"><b>Med Exam</b></a><br><sub>Online exams with AI</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="icons/tag.svg" alt="" width="18" height="18"> <a href="https://store.msbsu.com"><b>Coral Store</b></a><br><sub>Ready-made online stores</sub></td>
+<td width="50%"><img src="icons/bot.svg" alt="" width="18" height="18"> <a href="https://msbsu.com/on-sale/mwt-bot-pro"><b>MWT Bot Pro</b></a><br><sub>AI replies on every channel</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="icons/handshake.svg" alt="" width="18" height="18"> <a href="https://dmcbonesbank.org"><b>DMC Bones Bank</b></a><br><sub>Anatomy study sets platform</sub></td>
+<td width="50%"><img src="icons/users.svg" alt="" width="18" height="18"> <a href="https://www.hhfn.org.bd"><b>Helping Hand For Needy</b></a><br><sub>Website and admin portal</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="icons/library.svg" alt="" width="18" height="18"> <a href="https://journal.dmcrac.org/nbhrc26/"><b>NBHRC 2026</b></a><br><sub>Conference tech and proceedings</sub></td>
+<td width="50%"><img src="icons/pencil.svg" alt="" width="18" height="18"> <a href="https://github.com/Bolteryx/avro-linux"><b>Avro Linux</b></a><br><sub>Bangla typing for Linux</sub></td>
+</tr>
+</table>
+
+### <img src="icons/document.svg" alt="" width="20" height="20"> Latest posts
 
 <!-- POSTS:START -->
 <table>
 <tr>
-<td width="200"><a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><img src="https://msbsu.com/api/media/25" alt="MWT Bot — AI-Powered Business Automation Across Every Channel" width="200"></a></td>
-<td valign="top"><a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><b>MWT Bot — AI-Powered Business Automation Across Every Channel</b></a><br>Meet MWT Bot, a powerful multi-channel automation system that streamlines customer communication across Facebook, WhatsApp, Instagram, Telegram, and your websi…<br><sub>23 Oct 2026</sub></td>
+<td width="104"><a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><img src="https://msbsu.com/api/media/25" alt="MWT Bot — AI-Powered Business Automation Across Every Channel" width="104"></a></td>
+<td><a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><b>MWT Bot — AI-Powered Business Automation Across Every Channel</b></a><br><sub>Meet MWT Bot, a powerful multi-channel automation system that streamlines customer communicati… · 23 Oct 2026</sub></td>
 </tr>
 <tr>
-<td width="200"><a href="https://msbsu.com/posts/online-examination-system-more-than-just-an-online-exam"><img src="https://msbsu.com/api/media/28" alt="Online Examination System — More Than Just an Online Exam" width="200"></a></td>
-<td valign="top"><a href="https://msbsu.com/posts/online-examination-system-more-than-just-an-online-exam"><b>Online Examination System — More Than Just an Online Exam</b></a><br>A comprehensive online examination platform featuring a bilingual question bank, AI-powered question digitization and explanations, flexible exam management, r…<br><sub>23 Oct 2026</sub></td>
+<td width="104"><a href="https://msbsu.com/posts/online-examination-system-more-than-just-an-online-exam"><img src="https://msbsu.com/api/media/28" alt="Online Examination System — More Than Just an Online Exam" width="104"></a></td>
+<td><a href="https://msbsu.com/posts/online-examination-system-more-than-just-an-online-exam"><b>Online Examination System — More Than Just an Online Exam</b></a><br><sub>A comprehensive online examination platform featuring a bilingual question bank, AI-powered qu… · 23 Oct 2026</sub></td>
 </tr>
 <tr>
-<td width="200"><a href="https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor"><img src="https://msbsu.com/api/media/26" alt="Linux vs Windows vs iOS - A metaphor" width="200"></a></td>
-<td valign="top"><a href="https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor"><b>Linux vs Windows vs iOS - A metaphor</b></a><br>A metaphoric comparison between Linux, Windows and iOS.<br><sub>23 Oct 2026</sub></td>
+<td width="104"><a href="https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor"><img src="https://msbsu.com/api/media/26" alt="Linux vs Windows vs iOS - A metaphor" width="104"></a></td>
+<td><a href="https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor"><b>Linux vs Windows vs iOS - A metaphor</b></a><br><sub>A metaphoric comparison between Linux, Windows and iOS. · 23 Oct 2026</sub></td>
 </tr>
 </table>
-<p align="right"><a href="https://msbsu.com/posts"><b>See all posts on msbsu.com →</b></a></p>
+<p align="right"><a href="https://msbsu.com/posts">See all posts <img src="icons/forward.svg" alt="" width="14" height="14"></a></p>
 <!-- POSTS:END -->
 
-## 💼 Latest works
+### <img src="icons/briefcase.svg" alt="" width="20" height="20"> Latest works
 
 <!-- WORKS:START -->
 <table>
 <tr>
-<td width="200"><a href="https://msbsu.com/works/helping-hand-for-needy"><img src="https://msbsu.com/api/media/16" alt="Helping Hand For Needy" width="200"></a></td>
-<td valign="top"><a href="https://msbsu.com/works/helping-hand-for-needy"><b>Helping Hand For Needy</b></a><br>I have bult the complete IT solution for Helping Hand For Needy.<br><sub>Charity · HHFN · Donation · Technology</sub></td>
+<td width="104"><a href="https://msbsu.com/works/helping-hand-for-needy"><img src="https://msbsu.com/api/media/16" alt="Helping Hand For Needy" width="104"></a></td>
+<td><a href="https://msbsu.com/works/helping-hand-for-needy"><b>Helping Hand For Needy</b></a><br><sub>I have bult the complete IT solution for Helping Hand For Needy. · Charity · HHFN · Donation · Technology</sub></td>
 </tr>
 <tr>
-<td width="200"><a href="https://msbsu.com/works/dmc-blood-data"><img src="https://msbsu.com/api/media/19" alt="DMC Blood Data" width="200"></a></td>
-<td valign="top"><a href="https://msbsu.com/works/dmc-blood-data"><b>DMC Blood Data</b></a><br>I have voluntarily built the blood data management software for DMCans.<br><sub>Humanity · Blood · Donation</sub></td>
+<td width="104"><a href="https://msbsu.com/works/dmc-blood-data"><img src="https://msbsu.com/api/media/19" alt="DMC Blood Data" width="104"></a></td>
+<td><a href="https://msbsu.com/works/dmc-blood-data"><b>DMC Blood Data</b></a><br><sub>I have voluntarily built the blood data management software for DMCans. · Humanity · Blood · Donation</sub></td>
 </tr>
 </table>
-<p align="right"><a href="https://msbsu.com/works"><b>See all works on msbsu.com →</b></a></p>
+<p align="right"><a href="https://msbsu.com/works">See all works <img src="icons/forward.svg" alt="" width="14" height="14"></a></p>
 <!-- WORKS:END -->
 
-## 🛒 On sale
+### <img src="icons/tag.svg" alt="" width="20" height="20"> On sale
 
 <!-- SALE:START -->
 <table>
 <tr>
-<td width="200"><a href="https://msbsu.com/on-sale/mwt-bot-pro"><img src="https://msbsu.com/api/media/25" alt="MWT Bot Pro" width="200"></a></td>
-<td valign="top"><a href="https://msbsu.com/on-sale/mwt-bot-pro"><b>MWT Bot Pro</b></a><br>Never leave a customer waiting for a reply again<br><sub>Starting at BDT 15,000</sub></td>
+<td width="104"><a href="https://msbsu.com/on-sale/mwt-bot-pro"><img src="https://msbsu.com/api/media/25" alt="MWT Bot Pro" width="104"></a></td>
+<td><a href="https://msbsu.com/on-sale/mwt-bot-pro"><b>MWT Bot Pro</b></a><br><sub>Never leave a customer waiting for a reply again · Starting at BDT 15,000</sub></td>
 </tr>
 <tr>
-<td width="200"><a href="https://msbsu.com/on-sale/store-management-system"><img src="https://msbsu.com/api/media/24" alt="Store Management System" width="200"></a></td>
-<td valign="top"><a href="https://msbsu.com/on-sale/store-management-system"><b>Store Management System</b></a><br>A complete e-commerce management system for your own digital store — self-hosted on ordinary PHP + MySQL hosting.<br><sub>BDT 1,000/mo (Starter)</sub></td>
+<td width="104"><a href="https://msbsu.com/on-sale/store-management-system"><img src="https://msbsu.com/api/media/24" alt="Store Management System" width="104"></a></td>
+<td><a href="https://msbsu.com/on-sale/store-management-system"><b>Store Management System</b></a><br><sub>A complete e-commerce management system for your own digital store — self-hosted on ordinary P… · BDT 1,000/mo (Starter)</sub></td>
 </tr>
 </table>
-<p align="right"><a href="https://msbsu.com/on-sale"><b>See everything on sale on msbsu.com →</b></a></p>
+<p align="right"><a href="https://msbsu.com/on-sale">See everything on sale <img src="icons/forward.svg" alt="" width="14" height="14"></a></p>
 <!-- SALE:END -->
-
-## 🔗 Links
-
-[Website](https://msbsu.com) · [Facebook](https://fb.me/msbsurfi) · [X](https://x.com/msbsurfi) · [LinkedIn](https://linkedin.com/in/msbsurfi) · [Telegram](https://t.me/msbsurfi) · [Email](mailto:hello@msbsu.com) · [Freelancer](https://www.freelancer.com/u/msbsurfi) · [Chess.com](https://www.chess.com/member/msbsurfi) · [WhatsApp](https://wa.me/msbsu) · [ORCID](https://orcid.org/0009-0006-4157-0271)
