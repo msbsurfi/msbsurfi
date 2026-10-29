@@ -1,0 +1,27 @@
+name: Update README from msbsu.com
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Refresh the latest sections
+        run: node scripts/update-readme.mjs README.md
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet README.md; then echo "Nothing new."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update latest posts, works and on-sale items from msbsu.com"
+          git push
