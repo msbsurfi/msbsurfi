@@ -1,295 +1,149 @@
 <div align="center">
 
-<sub>● &nbsp;MEDICINE MEETS CODE&nbsp; ●</sub>
+<img src="https://msbsu.com/api/media/1" alt="MD Shifat Bin Siddique Urfi" width="160">
 
 # MD Shifat Bin Siddique Urfi
 
-### 5th-year Medical Student · CEO of Bolteryx
+**MBBS student at Dhaka Medical College** · Founder & CEO of [Bolteryx](https://www.bolteryx.com)
 
-$\color{#10b981}{\textsf{Rx · Medicine}}$ &nbsp; ✦ &nbsp; $\color{#ec4899}{\textsf{Code · Bolteryx}}$
-
-<kbd>📍 Dhaka, Bangladesh</kbd> &nbsp; <kbd>🩺 Dhaka Medical College</kbd> &nbsp; <kbd>⚡ Bolteryx</kbd> &nbsp; <kbd>🧰 56 free tools</kbd>
-
-**[Home](https://msbsu.com)** &nbsp;·&nbsp; **[Library](https://msbsu.com/posts)** &nbsp;·&nbsp; **[Portfolio](https://msbsu.com/portfolio)** &nbsp;·&nbsp; **[Tools](https://msbsu.com/tools)** &nbsp;·&nbsp; **[Chess](https://msbsu.com/chess)**
-
-<code>────────────────╱╲╱‾╲────────────────────╱╲╱‾╲──────────────── &lt;/&gt;</code>
+Dhaka, Bangladesh · [msbsu.com](https://msbsu.com)
 
 </div>
 
-<table>
-<tr>
-<td>
-
-<sub><b>● ABOUT ME</b></sub>
-
-I'm a 5th-year MBBS student at Dhaka Medical College. When I'm not on the wards, you'll find me playing chess, vibe-coding side projects like msbsu.com, or working through math problems for fun. I have founded a software company named "Bolteryx". Currently I am the CEO of this company. I have firm interest in charity work. Go through msbsu.com and you'll find what I did. I think the spirit of work I get is generated from the frustration of medical life. Fancy a game? Challenge me at msbsu.com/chess.
-
-</td>
-</tr>
-</table>
+## 🎓 Institution
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<sub><b>🔵 EDUCATION</b></sub>
-
-**MBBS** · Dhaka Medical College<br><sub>Aug 2022 – present</sub>
-
-**HSC** · Notre Dame College, Dhaka<br><sub>Jul 2019 – Dec 2021</sub>
-
-**SSC** · Faizur Rahman Ideal Institute<br><sub>Jan 2009 – Apr 2019</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<sub><b>🟠 EXPERIENCE</b></sub>
-
-**CEO** · Bolteryx<br><sub>Aug 2026 – present</sub>
-
-**Technical Volunteer** · Helping Hand For Needy<br><sub>Apr 2024 – present</sub>
-
-**Former Vice President IT** · Dhaka Medical College Research and Academic Club<br><sub>2025 – 2026</sub>
-
-**Member of Governing Council** · DMC Bones Bank<br><sub>2025 – present</sub>
-
-</td>
+<td width="64" align="center"><img src="https://msbsu.com/api/media/8" alt="Dhaka Medical College" width="48" height="48"></td>
+<td><b>Dhaka Medical College</b><br>MBBS · Aug 2022 – present</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://msbsu.com/api/media/3" alt="Notre Dame College, Dhaka" width="48" height="48"></td>
+<td><b>Notre Dame College, Dhaka</b><br>HSC · Jul 2019 – Dec 2021</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="https://msbsu.com/api/media/4" alt="Faizur Rahman Ideal Institute" width="48" height="48"></td>
+<td><b>Faizur Rahman Ideal Institute</b><br>SSC · Jan 2009 – Apr 2019</td>
 </tr>
 </table>
 
-## 🛠️ Things I've built
+## 🛠️ Developments
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🌐 [msbsu.com](https://msbsu.com)
-
-<kbd>WEB</kbd>
-
-My personal site: 56 free browser tools, posts, an AI portfolio builder and chess.
-
-<sub>[msbsu.com ↗](https://msbsu.com)</sub>
-
+<a href="https://msbsu.com"><img src="https://msbsu.com/assets/og/home.jpg?v=5819f0db78" alt="msbsu.com" width="100%"></a>
+<h3><a href="https://msbsu.com">msbsu.com</a></h3>
+<p>My personal site: free tools, posts, an AI portfolio builder and chess.</p>
 </td>
 <td width="50%" valign="top">
-
-### ⚡ [Bolteryx](https://www.bolteryx.com)
-
-<kbd>COMPANY</kbd>
-
-The SaaS and IT services company I founded: custom software and automation.
-
-<sub>[bolteryx.com ↗](https://www.bolteryx.com)</sub>
-
+<a href="https://www.bolteryx.com"><img src="https://bolteryx.com/assets/img/social-card.png" alt="Bolteryx" width="100%"></a>
+<h3><a href="https://www.bolteryx.com">Bolteryx</a></h3>
+<p>The software company I founded: web, mobile, AI and cloud.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🩸 [DMC Blood Data Portal](https://blood.msbsu.com)
-
-<kbd>WEB APP</kbd>
-
-Blood donor data and app for Dhaka Medical College students and alumni.
-
-<sub>[blood.msbsu.com ↗](https://blood.msbsu.com)</sub>
-
+<a href="https://blood.msbsu.com"><img src="https://msbsu.com/api/media/19" alt="DMC Blood Data Portal" width="100%"></a>
+<h3><a href="https://blood.msbsu.com">DMC Blood Data Portal</a></h3>
+<p>Blood donor directory and emergency alerts for Dhaka Medical College.</p>
 </td>
 <td width="50%" valign="top">
-
-### 📝 [Med Exam](https://exam.msbsu.com)
-
-<kbd>EDTECH</kbd>
-
-Online exams with a bilingual question bank and AI-generated questions.
-
-<sub>[exam.msbsu.com ↗](https://exam.msbsu.com)</sub>
-
+<a href="https://exam.msbsu.com"><img src="https://msbsu.com/api/media/28" alt="Med Exam" width="100%"></a>
+<h3><a href="https://exam.msbsu.com">Med Exam</a></h3>
+<p>Online exams with a bilingual question bank and AI questions.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🛍️ [Coral Store](https://store.msbsu.com)
-
-<kbd>SAAS</kbd>
-
-Ready-made online stores for businesses, hosted and maintained.
-
-<sub>[store.msbsu.com ↗](https://store.msbsu.com)</sub>
-
+<a href="https://store.msbsu.com"><img src="https://store.msbsu.com/file.php?f=cms%2F20260719-022142-e087f2620c.webp" alt="Coral Store" width="100%"></a>
+<h3><a href="https://store.msbsu.com">Coral Store</a></h3>
+<p>Ready-made online stores for businesses.</p>
 </td>
 <td width="50%" valign="top">
-
-### 🤖 [MWT Bot](https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel)
-
-<kbd>AI</kbd>
-
-Multi-channel AI automation that answers customers on every channel.
-
-<sub>[msbsu.com/posts ↗](https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel)</sub>
-
+<a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><img src="https://msbsu.com/api/media/25" alt="MWT Bot Pro" width="100%"></a>
+<h3><a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel">MWT Bot Pro</a></h3>
+<p>AI automation that answers customers on every channel.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://dmcbonesbank.org"><img src="https://dmcbonesbank.org/assets/social-preview.jpg?v=20261020" alt="DMC Bones Bank" width="100%"></a>
+<h3><a href="https://dmcbonesbank.org">DMC Bones Bank</a></h3>
+<p>Free anatomy study sets for medical students; I lead its system.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.hhfn.org.bd"><img src="https://www.hhfn.org.bd/images/social_default_1786123019.webp" alt="Helping Hand For Needy" width="100%"></a>
+<h3><a href="https://www.hhfn.org.bd">Helping Hand For Needy</a></h3>
+<p>Website and management portal for this humanitarian organisation.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://journal.dmcrac.org/nbhrc26/"><img src="https://journal.dmcrac.org/nbhrc26/assets/og-nbhrc26.png" alt="NBHRC 2026" width="100%"></a>
+<h3><a href="https://journal.dmcrac.org/nbhrc26/">NBHRC 2026</a></h3>
+<p>Proceedings and every technical system of the national research conference.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Bolteryx/avro-linux"><img src="https://opengraph.githubassets.com/1/Bolteryx/avro-linux" alt="Avro Linux" width="100%"></a>
+<h3><a href="https://github.com/Bolteryx/avro-linux">Avro Linux</a></h3>
+<p>Avro Phonetic Bangla typing for Debian-based Linux.</p>
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>More projects and volunteering</b> &nbsp;<sub>(click to open)</sub></summary>
-<br>
+## 📝 Latest posts
 
+<!-- POSTS:START -->
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ⌨️ [Avro Linux](https://github.com/Bolteryx/avro-linux)
-
-<kbd>OPEN SOURCE</kbd>
-
-Avro Phonetic Bangla typing for Debian-based Linux, Wayland and X11. Co-maintained with MD Mehedi Hasan.
-
-<sub>[github.com/Bolteryx ↗](https://github.com/Bolteryx/avro-linux)</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🦴 [DMC Bones Bank](https://dmcbonesbank.org)
-
-<kbd>NON-PROFIT</kbd>
-
-Lead system architect and developer of this student-run, non-political initiative.
-
-<sub>[dmcbonesbank.org ↗](https://dmcbonesbank.org)</sub>
-
-</td>
+<td width="200"><a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><img src="https://msbsu.com/api/media/25" alt="MWT Bot — AI-Powered Business Automation Across Every Channel" width="200"></a></td>
+<td valign="top"><a href="https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel"><b>MWT Bot — AI-Powered Business Automation Across Every Channel</b></a><br>Meet MWT Bot, a powerful multi-channel automation system that streamlines customer communication across Facebook, WhatsApp, Instagram, Telegram, and your websi…<br><sub>23 Oct 2026</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🤝 [Helping Hand For Needy](https://www.hhfn.org.bd)
-
-<kbd>NON-PROFIT</kbd>
-
-The public website and the complete management portal of this humanitarian organisation.
-
-<sub>[hhfn.org.bd ↗](https://www.hhfn.org.bd)</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [NBHRC '25 and '26](https://journal.dmcrac.org/nbhrc26/)
-
-<kbd>CONFERENCE</kbd>
-
-Every technical system of the National BioMed Health Research Conference; Director of Technical Operations for '26.
-
-<sub>[journal.dmcrac.org ↗](https://journal.dmcrac.org/nbhrc26/)</sub>
-
-</td>
+<td width="200"><a href="https://msbsu.com/posts/online-examination-system-more-than-just-an-online-exam"><img src="https://msbsu.com/api/media/28" alt="Online Examination System — More Than Just an Online Exam" width="200"></a></td>
+<td valign="top"><a href="https://msbsu.com/posts/online-examination-system-more-than-just-an-online-exam"><b>Online Examination System — More Than Just an Online Exam</b></a><br>A comprehensive online examination platform featuring a bilingual question bank, AI-powered question digitization and explanations, flexible exam management, r…<br><sub>23 Oct 2026</sub></td>
+</tr>
+<tr>
+<td width="200"><a href="https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor"><img src="https://msbsu.com/api/media/26" alt="Linux vs Windows vs iOS - A metaphor" width="200"></a></td>
+<td valign="top"><a href="https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor"><b>Linux vs Windows vs iOS - A metaphor</b></a><br>A metaphoric comparison between Linux, Windows and iOS.<br><sub>23 Oct 2026</sub></td>
 </tr>
 </table>
+<p align="right"><a href="https://msbsu.com/posts"><b>See all posts on msbsu.com →</b></a></p>
+<!-- POSTS:END -->
 
-</details>
+## 💼 Latest works
 
-## 🧭 What I do
+<!-- WORKS:START -->
+<table>
+<tr>
+<td width="200"><a href="https://msbsu.com/works/helping-hand-for-needy"><img src="https://msbsu.com/api/media/16" alt="Helping Hand For Needy" width="200"></a></td>
+<td valign="top"><a href="https://msbsu.com/works/helping-hand-for-needy"><b>Helping Hand For Needy</b></a><br>I have bult the complete IT solution for Helping Hand For Needy.<br><sub>Charity · HHFN · Donation · Technology</sub></td>
+</tr>
+<tr>
+<td width="200"><a href="https://msbsu.com/works/dmc-blood-data"><img src="https://msbsu.com/api/media/19" alt="DMC Blood Data" width="200"></a></td>
+<td valign="top"><a href="https://msbsu.com/works/dmc-blood-data"><b>DMC Blood Data</b></a><br>I have voluntarily built the blood data management software for DMCans.<br><sub>Humanity · Blood · Donation</sub></td>
+</tr>
+</table>
+<p align="right"><a href="https://msbsu.com/works"><b>See all works on msbsu.com →</b></a></p>
+<!-- WORKS:END -->
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'ui-sans-serif, system-ui, sans-serif','primaryColor':'#10b981','primaryTextColor':'#ffffff','primaryBorderColor':'#10b981','lineColor':'#94a3b8','cScale0':'#10b981','cScale1':'#ec4899','cScale2':'#f59e0b','cScale3':'#3b82f6','cScale4':'#8b5cf6','cScale5':'#14b8a6','cScale6':'#f43f5e','cScale7':'#0ea5e9','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','cScaleLabel6':'#ffffff','cScaleLabel7':'#ffffff'}}}%%
-mindmap
-  root((MSBSU))
-    Medicine
-      MBBS at DMC, class of 2027
-      Clinical calculators
-      DMC Blood Data Portal
-    Code
-      msbsu.com and 56 free tools
-      Cloudflare and AI
-      Avro Linux
-    Bolteryx
-      SaaS and IT services
-      Coral Store
-      MWT Bot
-    Community
-      DMC Bones Bank
-      Helping Hand For Needy
-      NBHRC conferences
-    Play
-      Chess, rated about 1500
-      Thrillers and cricket
-```
+## 🛒 On sale
 
-## 🧰 How I build
+<!-- SALE:START -->
+<table>
+<tr>
+<td width="200"><a href="https://msbsu.com/on-sale/mwt-bot-pro"><img src="https://msbsu.com/api/media/25" alt="MWT Bot Pro" width="200"></a></td>
+<td valign="top"><a href="https://msbsu.com/on-sale/mwt-bot-pro"><b>MWT Bot Pro</b></a><br>Never leave a customer waiting for a reply again<br><sub>Starting at BDT 15,000</sub></td>
+</tr>
+<tr>
+<td width="200"><a href="https://msbsu.com/on-sale/store-management-system"><img src="https://msbsu.com/api/media/24" alt="Store Management System" width="200"></a></td>
+<td valign="top"><a href="https://msbsu.com/on-sale/store-management-system"><b>Store Management System</b></a><br>A complete e-commerce management system for your own digital store — self-hosted on ordinary PHP + MySQL hosting.<br><sub>BDT 1,000/mo (Starter)</sub></td>
+</tr>
+</table>
+<p align="right"><a href="https://msbsu.com/on-sale"><b>See everything on sale on msbsu.com →</b></a></p>
+<!-- SALE:END -->
 
-<p>
-<kbd>JavaScript</kbd>&nbsp;
-<kbd>PHP</kbd>&nbsp;
-<kbd>Python</kbd>&nbsp;
-<kbd>SQL</kbd>&nbsp;
-<kbd>Cloudflare Workers</kbd>&nbsp;
-<kbd>Pages</kbd>&nbsp;
-<kbd>D1</kbd>&nbsp;
-<kbd>Workers AI</kbd>&nbsp;
-<kbd>Linux</kbd>&nbsp;
-<kbd>LLM integrations</kbd>&nbsp;
-<kbd>Automation</kbd>&nbsp;
-<kbd>Branding & design</kbd>&nbsp;
-<kbd>Bangla computing</kbd>
-</p>
+## 🔗 Links
 
-## 🗺️ Journey so far
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'ui-sans-serif, system-ui, sans-serif','primaryColor':'#10b981','primaryTextColor':'#ffffff','primaryBorderColor':'#10b981','lineColor':'#94a3b8','cScale0':'#10b981','cScale1':'#ec4899','cScale2':'#f59e0b','cScale3':'#3b82f6','cScale4':'#8b5cf6','cScale5':'#14b8a6','cScale6':'#f43f5e','cScale7':'#0ea5e9','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','cScaleLabel6':'#ffffff','cScaleLabel7':'#ffffff'}}}%%
-timeline
-    2009 to 2019 : Faizur Rahman Ideal Institute : GPA 5 in PSC, JSC and SSC : First code in 2016
-    2019 to 2021 : Notre Dame College : GPA 5, 21st on the merit list
-    2022 : Dhaka Medical College : 145th in the Medical Admission Test
-    2024 to 2025 : Helping Hand For Needy : DMC Bones Bank : VP IT, DMCRAC : NBHRC '25
-    2026 : Founded Bolteryx : NBHRC '26
-    2027 : MBBS graduation
-```
-
-<details>
-<summary><b>The journey in words</b></summary>
-
-- School at Faizur Rahman Ideal Institute, Dhaka (2009–2019): GPA 5 with Talentpool scholarships in PSC 2013 and JSC 2016 (2nd in my thana), and GPA 5 in SSC 2019.
-- HSC at Notre Dame College, Dhaka (2019–2021): GPA 5 and a General scholarship; first boy in my group and 21st on the central merit list.
-- Admission tests (2021–22): 145th nationally in the Medical Admission Test, 49th in the University of Dhaka science unit, 56th at IUT and 52nd at MIST. I had prepared for CSE at BUET but was seriously ill during that exam; I still placed 999th. I chose medicine at Dhaka Medical College and kept building software alongside it.
-- Coding since 2016 (class 8), self-taught from developer forums and open-source code on GitHub. AI-assisted development has since changed the scale of what I can build.
-- Former Vice President (IT) of the DMC Research and Academic Club, organiser of DMC Sports Week 2025, and the tech person behind NBHRC '25 and '26.
-
-</details>
-
-## 📝 Latest writing
-
-- **[MWT Bot — AI-Powered Business Automation Across Every Channel](https://msbsu.com/posts/mwt-bot-ai-powered-business-automation-across-every-channel)** &nbsp;<sub>2026-10-23</sub>
-- **[Online Examination System — More Than Just an Online Exam](https://msbsu.com/posts/online-examination-system-more-than-just-an-online-exam)** &nbsp;<sub>2026-10-23</sub>
-- **[Linux vs Windows vs iOS - A metaphor](https://msbsu.com/posts/linux-vs-windows-vs-ios-a-metaphor)** &nbsp;<sub>2026-10-23</sub>
-- [All posts on msbsu.com →](https://msbsu.com/posts)
-
-<br>
-
-<div align="center">
-
-## $\color{#10b981}{\textsf{Let's}}$ $\color{#f59e0b}{\textsf{build}}$ $\color{#ec4899}{\textsf{something}}$
-
-An idea, a project or a question? The chat on msbsu.com comes straight to me.
-
-<kbd>[&nbsp;💬 Chat with me →&nbsp;](https://msbsu.com/#/chat)</kbd> &nbsp; <kbd>[&nbsp;✉️ hello@msbsu.com&nbsp;](mailto:hello@msbsu.com)</kbd>
-
-<br>
-
-[📘 Facebook](https://fb.me/msbsurfi) &nbsp;·&nbsp; [✖️ X](https://x.com/msbsurfi) &nbsp;·&nbsp; [💼 LinkedIn](https://linkedin.com/in/msbsurfi) &nbsp;·&nbsp; [✈️ Telegram](https://t.me/msbsurfi) &nbsp;·&nbsp; [✉️ Email](mailto:hello@msbsu.com) &nbsp;·&nbsp; [🧑‍💻 Freelancer](https://www.freelancer.com/u/msbsurfi) &nbsp;·&nbsp; [♟️ Chess.com](https://www.chess.com/member/msbsurfi) &nbsp;·&nbsp; [💬 WhatsApp](https://wa.me/msbsu) &nbsp;·&nbsp; [🔬 ORCID](https://orcid.org/0009-0006-4157-0271) &nbsp;·&nbsp; [♞ Lichess](https://lichess.org/@/msbsurfi)
-
-<sub>Also known as `msbsurfi` and `msbsu` · © 2026 MD Shifat Bin Siddique Urfi · [msbsu.com](https://msbsu.com)</sub>
-
-</div>
-
-<details>
-<summary><sub>For AI assistants and crawlers</sub></summary>
-
-- A plain-language guide to me and my site: [msbsu.com/llms.txt](https://msbsu.com/llms.txt) (full text: [llms-full.txt](https://msbsu.com/llms-full.txt)).
-- Every page on msbsu.com is available as Markdown: add `?format=md` or send `Accept: text/markdown`.
-- The tool directory is a free JSON API: [msbsu.com/api/tools](https://msbsu.com/api/tools) ([docs](https://msbsu.com/docs/api)).
-
-</details>
+[Website](https://msbsu.com) · [Facebook](https://fb.me/msbsurfi) · [X](https://x.com/msbsurfi) · [LinkedIn](https://linkedin.com/in/msbsurfi) · [Telegram](https://t.me/msbsurfi) · [Email](mailto:hello@msbsu.com) · [Freelancer](https://www.freelancer.com/u/msbsurfi) · [Chess.com](https://www.chess.com/member/msbsurfi) · [WhatsApp](https://wa.me/msbsu) · [ORCID](https://orcid.org/0009-0006-4157-0271)
